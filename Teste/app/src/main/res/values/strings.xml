@@ -9,4 +9,5 @@
         <item>TAB A</item>
         <item>TAB B</item>
     </string-array>
+    <string name="title_activity_maps">Map</string>
 </resources>
